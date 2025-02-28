@@ -48,4 +48,4 @@ uvloop
 xattr
 yt-dlp==2025.01.26
 pytz
-pip freeze 
+
