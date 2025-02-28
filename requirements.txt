@@ -1,5 +1,4 @@
 aiohttp[speedups]
-pip install bot
 aiofiles
 aioshutil
 anytree==2.8.0
